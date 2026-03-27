@@ -1,1 +1,1 @@
-print("Hola desde la rama principal")
+print("Hola desde la rama secundaria")
